@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("ma suite v6 ..");
 		
 		MyUtil.display("coucou");
+		//MyUtil.displayDlg("coucou2");
 	}
 
 }
