@@ -8,6 +8,7 @@ public class MyUtil {
 	}
 	
 	public static void displayDlg(String message){
-		JOptionPane.showMessageDialog(null, message);
+		if(message!null)
+		 JOptionPane.showMessageDialog(null, message);
 	}
 }
