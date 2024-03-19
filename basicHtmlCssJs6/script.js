@@ -4,7 +4,8 @@ window.onload= ()=>{
 	     .addEventListener("click" , ()=>{
 	   let a = Number(document.getElementById("a").value);
 	   let b = Number(document.getElementById("b").value);
-	   let res=a+b;
+	   let c = Number(document.getElementById("c").value);
+	   let res=a+b+c;
 	   document.getElementById("spanRes").innerHTML=res;
 	});
 	
