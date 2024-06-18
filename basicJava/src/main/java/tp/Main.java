@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("Coucou Franck!");
 		String test = "new String";
 		System.out.println(test);
+		
+		// test OB
 	}
 
 }
