@@ -9,7 +9,7 @@ public class Main {
 		String test = "new String";
 		System.out.println(test);
 		
-		// test OB
+		// test O-B
 	}
 
 }
