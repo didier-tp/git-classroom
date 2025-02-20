@@ -1,3 +1,5 @@
+https://github.com/didier-tp/git-classroom
+-------------------------------------------
 Ce referentiel git est dédié à l'apprentissage de GIT
 C'est une sorte de projet "sandbox" pour s'exercer à effectuer des opérations en équipe
 -------------
