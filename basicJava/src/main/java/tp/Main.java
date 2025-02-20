@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("HELLO woooooorld !!!");
 		System.out.println("Coucou Laurent!");
 		System.out.println("Coucou Franck!");
+		System.out.println("Coucou c moi!");
 		String test = "new String";
 		System.out.println(test);
 		
