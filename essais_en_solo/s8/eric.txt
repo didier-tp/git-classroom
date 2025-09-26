@@ -9,3 +9,5 @@ evol 1
 evol 2
 a publier evol 1
 a publier evol 2
+a squasher evol 3
+a squasher evol 4
