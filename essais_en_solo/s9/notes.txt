@@ -1,0 +1,1 @@
+• répercuter la mise à jour au niveau du référentiel partagé (add,commit,push, …)
